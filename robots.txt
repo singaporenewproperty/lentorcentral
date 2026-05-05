@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lentorcentraladmin.showflat.com.sg/sitemap.xml
