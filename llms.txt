@@ -1,0 +1,9 @@
+# Lentor Central
+
+> Lentor Central — Premium property listing in Singapore.
+
+- Canonical Origin: https://singaporenewproperty.github.io/lentorcentral/
+
+## Pages
+
+- [Lentor Central](https://singaporenewproperty.github.io/lentorcentral/): Lentor Central property information.
